@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1588949098 source:c:\users\kinga nowakowska\documents\ii semestr\podstawy programowania 2\projekt\km2\project\account.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"account.h"
+
+1588948770 c:\users\kinga nowakowska\documents\ii semestr\podstawy programowania 2\projekt\km2\project\account.h
+
+1588934243 source:c:\users\kinga nowakowska\documents\ii semestr\podstawy programowania 2\projekt\km2\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"users.h"
+	"account.h"
+
+1588948242 c:\users\kinga nowakowska\documents\ii semestr\podstawy programowania 2\projekt\km2\project\users.h
+
+1588949251 source:c:\users\kinga nowakowska\documents\ii semestr\podstawy programowania 2\projekt\km2\project\users.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"users.h"
+	"account.h"
+
+1591101356 source:c:\users\48533\documents\ii semestr\podstawy programowania 2\projekt\km2\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"users.h"
+
+1590996700 c:\users\48533\documents\ii semestr\podstawy programowania 2\projekt\km2\project\users.h
+
+1591094310 c:\users\48533\documents\ii semestr\podstawy programowania 2\projekt\km2\project\account.h
+	<stdbool.h>
+
+1591173061 source:c:\users\48533\documents\ii semestr\podstawy programowania 2\projekt\km2\project\users.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"users.h"
+	"account.h"
+
+1591101358 source:c:\users\48533\documents\ii semestr\podstawy programowania 2\projekt\km2\project\account.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"account.h"
+
+1589278378 c:\users\48533\documents\ii semestr\podstawy programowania 2\projekt\km2\project\sorting_functions.h
+
+1589278445 source:c:\users\48533\documents\ii semestr\podstawy programowania 2\projekt\km2\project\sorting_functions.c
+	"sorting_functions.h"
+	<stdio.h>
+	<string.h>
+

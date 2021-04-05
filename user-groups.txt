@@ -1,0 +1,3 @@
+grupa1 2 Aleksandra Nowak Anna Nowak 
+grupa2 3 Aleksandra Nowak Joanna Kwiat Jan Kowalski 
+grupa4 1 Aleksandra Nowak
