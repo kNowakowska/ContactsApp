@@ -1,0 +1,5 @@
+     Aleksandra          Nowak       Warszawa       kielecka            12d 32762       Warszawa 123567901  a.nowak@interia.pl
+           Anna          Nowak         Krakow      krakowska             12 45123         Krakow 987456345   a.nowak@gmail.com
+            Jan       Kowalski         Kielce      sloneczna             23 34098         Kielce 345678093   j.kowal@gmail.com
+         Joanna          Kwiat        Wroclaw        zielona              3 09678        Wroclaw 223456230 jo.kwiat@interia.pl
+       Karolina          Nowak         Kielce        zielona            123 89234         Kielce 123456789 j.nowak02@gmail.com
